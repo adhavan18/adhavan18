@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @adhavan18
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning on the linux machine
-- 💞️ I’m looking to collaborate on hacking, programming
-- 📫 How to reach me 
+
